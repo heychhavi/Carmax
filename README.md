@@ -1,11 +1,11 @@
-##CarMax Analytics Showcase Winter 2024
+## CarMax Analytics Showcase Winter 2024
 Data Set and Important Files
 The data set is a sample of ~130,000 customers who have purchased a car from CarMax and their accompanying appraisal details. An appraisal is an offer amount from CarMax to buy a customer's vehicle. Often, CarMax customers use the appraisal offer to purchase another vehicle through a trade-in.
 
 Each row contains data on a customer's appraised vehicle and the vehicle they purchased from CarMax.
 Appraised vehicle data can be identified by the suffix '_appraisal' (for example, 'make_appraisal' identifies the make of the vehicle customers sold to CarMax).
 
-##Relevant Files:
+## Relevant Files:
 
 winter_2024_data - the data set will have vehicle attributes for purchased and appraised cars, including make/model/trim, mileage, appraisal and purchase value
 Winter 2024 Showcase Data Dictionary - information about each feature in the data set
